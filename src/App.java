@@ -23,3 +23,8 @@ public class App {
         System.out.println("¡Hola, " + nombre + "!");
     }
 }
+public class App {
+    public static void main(String[] args) {
+        System.out.println("Adiós Mundo");
+    }
+}
