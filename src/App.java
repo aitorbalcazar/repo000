@@ -28,3 +28,8 @@ public class App {
         System.out.println("Adiós Mundo");
     }
 }
+public class App {
+    public static void main(String[] args) {
+        System.out.println("Rama conflicto");
+    }
+}
